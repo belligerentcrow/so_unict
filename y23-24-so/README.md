@@ -18,5 +18,12 @@
         2. [Multicore](02_07-03-24_so.md#multi-core)<br>
         3. [GPU](02_07-03-24_so.md#gpu)<br>
     5. [Memorie](02_07-03-24_so.md#memorie)<br>
+        1. [Registri](02_07-03-24_so.md#1---registri)
+        2. [Cache](02_07-03-24_so.md#2---cache-della-cpu)
+        3. [Memoria Centrale](02_07-03-24_so.md#3---memoria-centrale)
+        4. [Disco Elettronico](02_07-03-24_so.md#4---disco-elettronico)
+        5. [Disco Elettromagnetico](02_07-03-24_so.md#5---disco-elettromagnetico)
+        6. [Notazione memoria](02_07-03-24_so.md#notazione)
+    6. [Dispositivi Input-Output](02_07-03-24_so.md#dispositivi-di-io)<br><br>
 
 ---
