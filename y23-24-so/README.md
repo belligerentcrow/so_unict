@@ -31,7 +31,7 @@ cerca markdown lint nel marketplace vscode
         4. [Disco Elettronico](02_07-03-24_so.md#4---disco-elettronico)
         5. [Disco Elettromagnetico](02_07-03-24_so.md#5---disco-elettromagnetico)
         6. [Notazione memoria](02_07-03-24_so.md#notazione)
-    6. [Dispositivi Input-Output](02_07-03-24_so.md#dispositivi-di-io)  
+    6. [Dispositivi Input-Output](02_07-03-24_so.md#dispositivi-di-io)  <br><br>
 
   
 3. [**Lezione 3**](03_12-03-24_so.md#3-lezione----sistemi-operativi)
@@ -52,7 +52,7 @@ cerca markdown lint nel marketplace vscode
         4. [Struttura a moduli](03_12-03-24_so.md#struttura-a-moduli)
         5. [Macchine Virtuali](03_12-03-24_so.md#macchine-virtuali)
             1. [Simulazione](03_12-03-24_so.md#simulazione)
-            2. [Para-virtualizzazione](03_12-03-24_so.md#para-virtualizzazione)
+            2. [Para-virtualizzazione](03_12-03-24_so.md#para-virtualizzazione)<br><br>
 
 4. [**Lezione 4**](04_14-03-24_so.md#4-lezione----sistemi-operativi)
     1. [Processi](04_14-03-24_so.md#processi)
@@ -62,7 +62,7 @@ cerca markdown lint nel marketplace vscode
             1. [Creazione](04_14-03-24_so.md#creazione)
             2. [Terminazione (volontaria o involontaria)](04_14-03-24_so.md#terminazione)
     3. [Stato di un processo](04_14-03-24_so.md#stato-di-un-processo)
-        1. [Prelazione](04_14-03-24_so.md#prelazione)
+        1. [Prelazione](04_14-03-24_so.md#prelazione)<br><br>
 
 5. [**Lezione 5**](05_19-03-24_so.md#5-lezione----sistemi-operativi)
     1. [Stato dei processi](05_19-03-24_so.md#stato-dei-processi)
@@ -76,7 +76,7 @@ cerca markdown lint nel marketplace vscode
     4. [Programmazione multicore](05_19-03-24_so.md#programmazione-multicore)
         1. [Thread a livello utente](05_19-03-24_so.md#thread-a-livello-utente)
             1. [Modello a thread kernel (1-a-1)](05_19-03-24_so.md#modello-a-thread-kernel-1-a-1)
-            2. [Modello dei thread livello utente (1-a-molti)](05_19-03-24_so.md#modello-dei-thread-livello-utente-1-a-molti)
+            2. [Modello dei thread livello utente (1-a-molti)](05_19-03-24_so.md#modello-dei-thread-livello-utente-1-a-molti)<br><br>
 
 6. [**Lezione 6**](06_21-03-24_so.md#6-lezione----sistemi-operativi)
     1. [Threads](06_21-03-24_so.md#threads)
@@ -84,9 +84,9 @@ cerca markdown lint nel marketplace vscode
     3. [Thread nei sistemi operativi](06_21-03-24_so.md#thread-nei-sistemi-operativi)
     4. [Comunicazione tra processi](06_21-03-24_so.md#comunicazione-tra-processi)
         1. [Race condition](06_21-03-24_so.md#race-condition)
-        2. [Condizioni critiche e soluzioni](06_21-03-24_so.md#condizioni-critiche-e-soluzioni)
+        2. [Condizioni critiche e soluzioni](06_21-03-24_so.md#condizioni-critiche-e-soluzioni)<br><br>
 
-7. [**Lezione 7**]()
+7. [**Lezione 7**]()<br><br>
 
 8. [**Lezione 8**](08_04-04-24_so.md#8-lezione----sistemi-operativi)
     1. [Recap lezione precedente](08_04-04-24_so.md#recap-lezione-precedente)
@@ -97,4 +97,35 @@ cerca markdown lint nel marketplace vscode
     6. [Scambio messaggi tra processi](08_04-04-24_so.md#scambio-messaggi-tra-processi)
     7. [Problema dei 5 filosofi](08_04-04-24_so.md#problema-dei-5-filosofi)
         1. [Soluzione dei semafori](08_04-04-24_so.md#soluzione-dei-semafori)
-        2. [Soluzione con i monitor](08_04-04-24_so.md#soluzione-con-i-monitor)
+        2. [Soluzione con i monitor](08_04-04-24_so.md#soluzione-con-i-monitor)<br><br>
+
+9. [**Lezione 9**](09_09-04-24_so.md#9-lezione----sistemi-operativi)
+    1. [Recap](09_09-04-24_so.md#recap)
+    2. [Problema dei Lettori-Scrittori](09_09-04-24_so.md#problema-dei-lettori-scrittori)
+        1. [Soluzione 1: Semafori](09_09-04-24_so.md#soluzione-1-semafori)
+        2. [Soluzione 2 : Monitor](09_09-04-24_so.md#soluzione-2--monitor)
+            1. [Modifica per equita' tra scrittura e lettura](09_09-04-24_so.md#modifica-per-equita-tra-scrittura-e-lettura)
+            2. [Modifica per favorire gli scrittori](09_09-04-24_so.md#modifica-per-favorire-gli-scrittori)
+    3. [Scheduling](09_09-04-24_so.md#scheduling)
+        1. [Categorizzazione:  Processi CPU-bounded vs IO bounded](09_09-04-24_so.md#categorizzazione--processi-cpu-bounded-vs-io-bounded)
+            1. [Cpu-bounded](09_09-04-24_so.md#cpu-bounded)
+            2. [IO Bounded](09_09-04-24_so.md#io-bounded)
+        2. [Context Switch](09_09-04-24_so.md#context-switch)
+    4. [Obbiettivi e metriche degli Algoritmi di Scheduling](09_09-04-24_so.md#obbiettivi-e-metriche-degli-algoritmi-di-scheduling)
+        1. [Obbiettivi comuni](09_09-04-24_so.md#obbiettivi-comuni)
+            1. [Equita' e Bilanciamento nell'uso delle risorse](09_09-04-24_so.md#equita-e-bilanciamento-nelluso-delle-risorse)
+        2. [Sistemi batch](09_09-04-24_so.md#sistemi-batch)
+        3. [Sistemi interattivi](09_09-04-24_so.md#sistemi-interattivi)
+        4. [Sistemi real-time](09_09-04-24_so.md#sistemi-real-time)
+    5. [Scheduling nei sistemi batch](09_09-04-24_so.md#scheduling-nei-sistemi-batch)<br><br>
+
+10. [**Lezione 10**](10_11-04-24_so.md#10-lezione----sistemi-operativi)
+    1. [Recap](10_11-04-24_so.md##recap)
+    2. [Shortest Job First -- Scheduling per Brevita'](10_11-04-24_so.md##shortest-job-first----scheduling-per-brevita)
+    3. [Shortest Remaining Time Next](10_11-04-24_so.md##shortest-remaining-time-next)
+    4. [Scheduling Round-Robin](10_11-04-24_so.md##scheduling-round-robin)
+        1. [Sistemi interattivi e priorita'](10_11-04-24_so.md##sistemi-interattivi-e-priorita)
+    5. [Aging](10_11-04-24_so.md##aging)
+    6. [Scheduling a code multiple](10_11-04-24_so.md##scheduling-a-code-multiple)
+        1. [Quanti di tempo e priorita'](10_11-04-24_so.md##quanti-di-tempo-e-priorita)
+        2. [Turni e percentuali -- garanzia di tempo in CPU](10_11-04-24_so.md#turni-e-percentuali----garanzia-di-tempo-in-cpu)
